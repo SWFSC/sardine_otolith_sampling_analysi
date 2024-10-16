@@ -1,4 +1,4 @@
-Otolith subsampling strategies for Pacific Sardine
+## Otolith subsampling strategies for Pacific Sardine
 This repository contains the data and analysis used in the manuscript on post-survey otolith subsampling strategies on Pacific Sardine by Schwartzkopf et al. 
 
 ## Disclaimer
